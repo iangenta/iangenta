@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ián Genta</h1>
 <h3 align="center">A passionate developer from Argentina</h3>
 
-- 🔭 I’m currently working on **ITBANKI**
+- 🔭 I’m currently working on **ITBANKING**
 
 - 🌱 I’m currently learning **Python, Django**
 
