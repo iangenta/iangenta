@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ITBANKING**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **FullStack JS**
 
 - 👨‍💻 All of my projects are available at [https://iangenta.github.io/portfolio](https://iangenta.github.io/portfolio)
 
