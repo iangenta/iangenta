@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ián Genta</h1>
 <h3 align="center">A passionate programming student from Argentina.</h3>
 
-- 🔭 I’m currently working on **ITBANKING**
+- 🔭 I’m currently working on **ITBANKING project**
 
-- 🌱 I’m currently learning **FullStack JS**
+- 🌱 I’m currently learning **Full stack development**
 
 - 👨‍💻 All of my projects are available at [https://iangenta.github.io/portfolio](https://iangenta.github.io/portfolio)
 
