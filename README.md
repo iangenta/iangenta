@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at[iangenta.github.io.
+- 👨‍💻 All of my projects are available at https://iangenta.github.io/Portfolio/
 
 - 📫 How to reach me **gentaian2@gmail.com**
 
