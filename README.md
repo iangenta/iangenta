@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at https://iangenta.github.io/PortfolioReact/  ** Still in process
+- 👨‍💻 All of my projects are available at https://iangenta.github.io/PortfolioReact/ 
  **
 
 - 📫 How to reach me **gentaian2@gmail.com**
